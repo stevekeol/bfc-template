@@ -1,2 +1,6 @@
-# bfc-template
-Just for bfc-template demo
+# BFC-cli 中使用的项目模板（脚手架） - 草稿
+
+### 该项目用到的库的版本
++ React@15.0.1
++ webpack@1.12.14
++ Redux@3.2.1
